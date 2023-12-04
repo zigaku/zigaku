@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>htmlの書き方</title>
+</head>
+<body>
+<h1>書き方</h1>
+<h2>はじまる</h2>
+<p>簡単に書けるのは魅力的！</p>
+<a href="https://google.com">
+ここを押すとグーグルが開ける
+</a>
+<ul>
+<li>これは</li>
+<li>箇条書き</li>
+<li>ですか？</li>
+</ui>
+<p>すきな<br>ところで<br>改行<br>できちゃう</p>
+<p>ななめにもできる<em>html</em>ってすごいね</p>
+</body>
+</html>
